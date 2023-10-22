@@ -1,5 +1,7 @@
-# flutter
-Perjalanan Explorasi Flutter berdasarkan [roadmap](https://roadmap.sh/flutter)
+# Belajar Flutter
+
+Perjalanan Explorasi Flutter berdasarkan [roadmap](https://roadmap.sh/flutter) + semangat dari abang2 senior  
+bg [Putra](https://github.com/putraxor), bg [Izal](https://github.com/rizalkotlin) & [Saiful Bahri](https://github.com/bahrie127). Terima kasih.
 
 ## Perjalanan :
 1. Belajar Dasar Dart
