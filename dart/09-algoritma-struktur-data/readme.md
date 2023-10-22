@@ -21,3 +21,14 @@ Update Dart 3.1
 - https://codelabs.developers.google.com/codelabs/dart-patterns-records#12
 
 - https://www.infoq.com/articles/programming-language-trends-2019/
+
+
+
+Alternatif Indonesia :
+- https://github.com/bellshade/Dart
+- https://www.dicoding.com/academies/191
+
+Programmer Zaman Now :
+- https://www.youtube.com/watch?v=-mzXdI27tyk
+- https://www.youtube.com/watch?v=k0ycD2aqPzU
+- https://www.youtube.com/watch?v=f_Mshv3VnOI
